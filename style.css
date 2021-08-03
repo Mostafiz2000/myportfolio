@@ -36,6 +36,9 @@ section{
     padding: 0 80px;
     margin: auto;
 }
+body{
+    background: #dde8f1;
+}
 .about, .services, .skills, .teams, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
@@ -368,6 +371,9 @@ background:rgb(73, 20, 220);
 }
 
 /* skills section styling */
+.skills {
+    margin-bottom: 250px;
+}
 .skills .title::before{
     background: rgb(73, 20, 220);
     
